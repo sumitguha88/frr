@@ -41,6 +41,9 @@ Instructions on building and installing from source for supported platforms may
 be found in the
 [developer docs](http://docs.frrouting.org/projects/dev-guide/en/latest/building.html).
 
+An experimental Rust workspace lives in `rust/`. If the `cargo` tool is
+available, the Rust components can be compiled with `cargo build`.
+
 Once installed, please refer to the [user guide](http://docs.frrouting.org/)
 for instructions on use.
 
