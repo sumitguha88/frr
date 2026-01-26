@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumitguha88%2Ffrr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumitguha88%2Ffrr?ref=badge_shield)
+
 <p align="center">
 <img src="http://docs.frrouting.org/en/latest/_static/frr-icon.svg" alt="Icon" width="20%"/>
 </p>
@@ -81,3 +83,7 @@ To report security issues, please use our security mailing list:
 ```
 security [at] lists.frrouting.org
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumitguha88%2Ffrr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumitguha88%2Ffrr?ref=badge_large)
